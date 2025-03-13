@@ -20,7 +20,8 @@ of Dead, Starburst
 ![LuxeCasino](./demo/nn.png)
 ---
 ![LuxeCasino](./demo/mmmm.png)
-## Demo
-![Demo](https://luxecasino.netlify.app/)
+
+## 🎰 Demo
+Check out the live demo: [Luxe Casino](https://luxecasino.netlify.app/)
 
 
